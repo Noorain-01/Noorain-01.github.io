@@ -8,3 +8,5 @@ paperurl: "(https://doi.org/10.1609/aaai.v40i29.39628)"
 codeurl: "(https://github.com/Noorain1/CoRe-Fed)"
 image: "corefed.jpg"
 ---
+[Paper](https://doi.org/10.1609/aaai.v40i29.39628){: .btn .btn--primary}
+[Code](https://github.com/Noorain1/CoRe-Fed){: .btn .btn--primary}
