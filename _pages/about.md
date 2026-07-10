@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Computer Science at the School of Computing, Macquarie University, supervised by Distinguished Professor Dr. Michael Sheng and Dr. Adnan Mahmood. My research lies at the intersection of Bias mitigation in Federated Learning, Distributed Machine Learning, and Internet of Things, with a particular focus on developing learning algorithms that are fair, robust, and trustworhty in decentralized environments. My current research investigates how heterogeneous and evolving data distributions influence representation learning and model performance in federated learning, with emphasis on fairness-aware learning, adaptive optimization, and bias mitigation. Prior to joining Macquarie University, I completed my Bachelor's in Electronic Engineering and Master's in Electronic System Engineering at Mehran University of Engineering and Technology, Pakistan, where I graduated with distinction and developed a strong foundation in machine learning, embedded systems, and the Internet of Things. 
+I am a PhD Candidate in Computer Science at the School of Computing, Macquarie University, supervised by Distinguished Professor Dr. Michael Sheng and Dr. Adnan Mahmood. My research lies at the intersection of Bias mitigation in Federated Learning, Distributed Machine Learning, and Internet of Things, with a particular focus on developing learning algorithms that are fair, robust, and trustworthy in decentralized environments. My current research investigates how heterogeneous and evolving data distributions influence model performance in federated learning, with emphasis on fairness-aware learning, adaptive optimization, and generalization. Prior to joining Macquarie University, I completed my Bachelor's in Electronic Engineering and Master's in Electronic System Engineering at Mehran University of Engineering and Technology, Pakistan, where I graduated with distinction and developed a strong foundation in machine learning, embedded systems, and the Internet of Things. 
 
 Alongside my research, I enjoy teaching and mentoring students. I teach Artificial Intelligence, Cloud and Edge Computing, Embedded Systems, Networked Infrastructure Foundations, and Python Programming at Macquarie University and Central Queensland University.
 
-I am always interested in collaborating on research related to trustworthy machine learning, federated learning, representation learning, and distributed AI systems.
+I am always interested in collaborating on research, including, but not limited to, fair federated learning, representation learning, and distributed AI systems.
 
 ## Latest News
 
