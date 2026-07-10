@@ -8,7 +8,6 @@ venue: "AAAI Conference on Artificial Intelligence (AAAI 2026)"
 paperurl: "(https://doi.org/10.1609/aaai.v40i29.39628)"
 codeurl: "(https://github.com/Noorain1/CoRe-Fed)"
 image: "/images/corefed.jpg"
-citation: 'Noorain Mukhtiar, Adnan Mahmood, and Quan Z. Sheng. "CoRe-Fed: Bridging Collaborative and Representation Fairness via Federated Embedding Alignment." Proceedings of the AAAI Conference on Artificial Intelligence, 2026.'
 ---
 
 CoRe-Fed addresses collaborative and representation fairness in federated learning through representation alignment across heterogeneous clients.
