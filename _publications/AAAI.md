@@ -1,5 +1,4 @@
 ---
----
 title: "CoRe-Fed: Bridging Collaborative and Representation Fairness via Federated Embedding Alignment"
 collection: publications
 category: conferences
