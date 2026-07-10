@@ -6,5 +6,5 @@ permalink: /publication/core-fed-aaai-2026
 venue: "AAAI Conference on Artificial Intelligence (AAAI 2026)"
 paperurl: "(https://doi.org/10.1609/aaai.v40i29.39628)"
 codeurl: "(https://github.com/Noorain1/CoRe-Fed)"
-image: "/images/corefed.jpg"
+image: "corefed.jpg"
 ---
