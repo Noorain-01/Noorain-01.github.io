@@ -15,8 +15,8 @@ I am always interested in collaborating on research related to trustworthy machi
 
 ## Latest News
 
-- I am sering as a PC member in The International ACM Conference on Knowledge and Information Management (CIKM 2026).
-- I am sering as a PC member in The International Conference on Web of Information Systems Engineering (WISE 2026).
+- I am serving as a PC member in The International ACM Conference on Knowledge and Information Management (CIKM 2026).
+- I am serving as a PC member in The International Conference on Web of Information Systems Engineering (WISE 2026).
 - I received the Higher Degree Research Rising Star Award from the School of Computing, Macquarie University.
 - I was appointed as a Student Ambassador at Macquarie University, delivering talks to international delegations visiting the campus.
 - Our paper CoRe-Fed: Bridging Collaborative and Representation Fairness via Federated Embedding Distillation is accepted at AAAI 2026 (CORE A*).
