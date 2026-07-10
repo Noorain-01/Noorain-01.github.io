@@ -23,7 +23,7 @@ repository               : "Noorain-01/Noorain-01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "profile.jpg"
   name             : "Noorain Mukhtiar"
   pronouns         : # example: ""  
   bio              : "PhD Candidate in Computer Science"
